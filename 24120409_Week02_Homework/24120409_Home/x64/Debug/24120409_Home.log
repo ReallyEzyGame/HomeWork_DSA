@@ -1,0 +1,4 @@
+﻿  exp7.cpp
+D:\VSCoding\VSCommunity\24120409_Week02_Homework\24120409_Home\exp7.cpp(61,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\VSCoding\VSCommunity\24120409_Week02_Homework\24120409_Home\exp7.cpp(64,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  24120409_Home.vcxproj -> D:\VSCoding\VSCommunity\24120409_Week02_Homework\x64\Debug\24120409_Week02_HomeWork.exe
